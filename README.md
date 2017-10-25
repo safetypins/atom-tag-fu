@@ -1,3 +1,3 @@
 # Atom Tag Fu
 
-An Atom package to enable easier html typing.
+An Atom package making it easier to write HTML.
