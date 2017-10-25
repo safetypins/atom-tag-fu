@@ -1,20 +1,18 @@
 {
   "name": "atom-tag-fu",
   "main": "./lib/atom-tag-fu",
-  "version": "0.2.0",
-  "description": "Enables easier html tag writing.",
+  "version": "0.0.0",
+  "description": "A short description of your package",
   "keywords": [
-    "atom",
-    "tag",
-    "autocomplete"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-tag-wrapper:wrap"
+    "atom-workspace": "atom-tag-fu:toggle"
   },
-  "repository": "https://github.com/safetypins/atom-tag-fu",
+  "repository": "https://github.com/atom/atom-tag-fu",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }

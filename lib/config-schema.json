@@ -1,7 +1,0 @@
-{
-  "tag": {
-    "description": "Changes the default tag.",
-    "type": "string",
-    "default": "p"
-  }
-}
