@@ -1,5 +1,6 @@
 {
-  "atom-workspace": {
-    "ctrl-shift-<": "atom-tag-fu:insert"
+  "atom-text-editor:not([mini])": {
+    "ctrl-<": "atom-tag-fu:insert",
+    "ctrl->": "atom-tag-fu:escape"
   }
 }
